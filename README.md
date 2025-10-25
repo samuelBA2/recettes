@@ -94,11 +94,4 @@ Emmental → Comté
 
 Parmesan → Pecorino
 
-<<<<<<< HEAD
 Pour une pâte plus croustillante : enfourne sur une pierre à pizza bien chaude.
-
-bonne digestion 
-=======
-Pour une pâte plus croustillante : enfourne sur une pierre à pizza bien chaude
-
->>>>>>> 899ce15db614c150170f40c0765c061d18e6619b
