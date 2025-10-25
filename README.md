@@ -96,4 +96,4 @@ Parmesan → Pecorino
 
 Pour une pâte plus croustillante : enfourne sur une pierre à pizza bien chaude
 
-Bonne appétit !
+Bonne degustation !
